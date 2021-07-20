@@ -1,12 +1,11 @@
 @@,name,party,constituency
-+++,Romeo Kang'ombe,United Party for National Development,Sesheke
-+++,Raphael Nakacinda,Movement for Multi-Party Democracy,""
-+++,Patrick Matibini,"",""
-+++,Kabaso Kampampi,Patriotic Front,Mwansabombwe
-+++,Joseph Chishala,National Democratic Congress,Roan
-+++,Goodwin Putu,Patriotic Front,Mangango
-+++,George Chisanga,Patriotic Front,Lukashya
-+++,Fube Mulenga,Patriotic Front,Chilubi
-+++,Charles Chalwe,Patriotic Front,Bahati
-+++,Bwalya Ng'andu,Patriotic Front,""
-+++,Aubrey Kapalasa,United Party for National Development,Katuba
+->,Romeo Kang'ombe,NULL->United Party for National Development,NULL->Sesheke
+->,Raphael Nakacinda,NULL->Movement for Multi-Party Democracy,""
+->,Kabaso Kampampi,NULL->Patriotic Front,NULL->Mwansabombwe
+->,Joseph Chishala,NULL->National Democratic Congress,NULL->Roan
+->,Goodwin Putu,NULL->Patriotic Front,NULL->Mangango
+->,George Chisanga,NULL->Patriotic Front,NULL->Lukashya
+->,Fube Mulenga,NULL->Patriotic Front,NULL->Chilubi
+->,Charles Chalwe,NULL->Patriotic Front,NULL->Bahati
+->,Bwalya Ng'andu,NULL->Patriotic Front,""
+->,Aubrey Kapalasa,NULL->United Party for National Development,NULL->Katuba
