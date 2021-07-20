@@ -8,7 +8,7 @@ query = <<SPARQL
   WHERE {
     ?member p:P39 ?ps .
     ?ps ps:P39 wd:Q18607856 ; pq:P2937 wd:Q45380990 .
-    FILTER NOT EXISTS { ?ps pq:P582 ?end }
+    # FILTER NOT EXISTS { ?ps pq:P582 ?end }
 
     OPTIONAL {
       ?ps pq:P4100 ?faction
