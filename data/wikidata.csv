@@ -1,4 +1,9 @@
 item,name,party,constituency
+Q27063175,Chama Davies,Patriotic Front,
+Q45383066,George Mwamba,Patriotic Front,Lubansenshi
+Q27063131,Joyce Simukoko,Patriotic Front,
+Q45383873,Rosaria Fundanga,Patriotic Front,Chilubi
+Q45385011,Sitwala Morgan Sitwala,United Party for National Development,Kaoma
 Q46160201,Alexander Chiteme,Patriotic Front,Nkana
 Q45382079,Alfred Mandumbwa,independent politician,Mulobezi
 Q45384113,Ambrose Lufuma,United Party for National Development,Kabompo
@@ -30,7 +35,6 @@ Q45382790,Darious Mumba,Patriotic Front,Chama North
 Q45384285,Darius Mulunda,United Party for National Development,Siavonga
 Q45384298,David Kundoti,United Party for National Development,Luena
 Q29556814,David Mabumba,Patriotic Front,Mwense
-Q27063175,Davies Chama,Patriotic Front,
 Q45382825,Davies Chisopa,Patriotic Front,Mkushi South
 Q45382843,Davison Mung`andu,Patriotic Front,Chama South
 Q29555804,Dennis Wanchinga,Patriotic Front,Mambilima
@@ -56,7 +60,6 @@ Q45383042,Frank Ng'ambi,Patriotic Front,Chifubu
 Q45384454,Fred Chaatila,United Party for National Development,Moomba
 Q45384471,Gary Nkombo,United Party for National Development,Mazabuka Central
 Q1503022,Geoffrey Lungwangwa,United Party for National Development,Nalikwanda
-Q45383066,George Chibuye Mwamba,Patriotic Front,Lubansenshi
 Q45382336,George Imbuwa,independent politician,Nalolo
 Q45383084,Gerald Zimba,Patriotic Front,Chasefu
 Q45383101,Gift Chiyalika,Patriotic Front,Lufubu
@@ -78,7 +81,6 @@ Q45382351,Jewis Chabi,independent politician,Chipili
 Q45383255,Jonas Chanda,Patriotic Front,Bwana Mkubwa
 Q45383276,Joseph Kabamba,Patriotic Front,Kafulafuta
 Q45383291,Joseph Malanji,Patriotic Front,Kwacha
-Q27063131,Joyce Nonde-Simukoko,Patriotic Front,
 Q45384572,Kabwe Mwiinga,United Party for National Development,Chikankata
 Q45383326,Kalalwe Mukosa,Patriotic Front,Chinsali
 Q29539935,Kampamba Chilumba,Patriotic Front,Kalulushi
@@ -99,11 +101,11 @@ Q29559372,Makebi Zulu,Patriotic Front,Malambo
 Q45384683,Makozo Chikote,United Party for National Development,Luampa
 Q45383509,Margaret Miti,Patriotic Front,Vubwi
 Q6759764,Margaret Mwanakatwe,Patriotic Front,Lusaka Central
-Q56071389,Maria P Langa,Patriotic Front,Chilanga
+Q56071389,Maria Langa,Patriotic Front,Chilanga
 Q45383524,Martin Malama,Patriotic Front,Kanchibiya
 Q45382405,Masautso Tembo,independent politician,Sinda
-Q29539961,Mathew Nkhuwa,Patriotic Front,Chingola
 Q45384702,Mathews Jere,United Party for National Development,Livingstone
+Q29539961,Matthew Nkhuwa,Patriotic Front,Chingola
 Q45383553,Maxas Ng’onga,Patriotic Front,Kaputa
 Q45382535,Maxwell Kabanda,Movement for Multi-Party Democracy,Serenje
 Q45382421,Mbololwa Subulwa,independent politician,Sioma
@@ -143,7 +145,6 @@ Q45383817,Richard Musukwa,Patriotic Front,Chililabombwe
 Q45384953,Robert Lihefu,United Party for National Development,Manyinga
 Q45383834,Rodgers Mwewa,Patriotic Front,Mwansabombwe
 Q29539957,Ronald Chitotela,Patriotic Front,Pambashe
-Q45383873,Rosario Fundanga,Patriotic Front,Chilubi
 Q45383897,Salatiel Tembo,Patriotic Front,Chadiza
 Q45383910,Sebastian Kopulande,Patriotic Front,Chembe
 Q60854009,Sensio Banda,Patriotic Front,Kasenengwa
@@ -151,12 +152,11 @@ Q45384968,Sheal Mulyata,United Party for National Development,Rufunsa
 Q29559352,Sichone Malozo,Patriotic Front,Isoka
 Q45384980,Sililo Mutaba,United Party for National Development,Mwandi
 Q7532178,Situmbeko Musokotwane,United Party for National Development,Liuwa
-Q45385011,Sitwala Sitwala,United Party for National Development,Kaoma
 Q45385024,Stafford Mulusa,United Party for National Development,Solwezi Central
 Q45385044,Stanley Kakubo,United Party for National Development,Kapiri Mposhi
 Q45383949,Stephen Chungu,Patriotic Front,Luanshya
+Q27063683,Stephen Kampyongo,Patriotic Front,Shiwa Ng'andu
 Q45382496,Stephen Miti,independent politician,Feira
-Q27063683,Steven Kampyongo,Patriotic Front,Shiwa Ng'andu
 Q29559364,Sydney Mushanga,Patriotic Front,Bwacha (constituency)
 Q29539941,Sylvia Chalikosa,Patriotic Front,Mpika Central
 Q45385060,Teddy Kasonso,United Party for National Development,Solwezi West
