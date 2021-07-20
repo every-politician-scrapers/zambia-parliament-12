@@ -9,7 +9,7 @@ class Legislature
   # details for an individual member
   class Member < Scraped::HTML
     field :id do
-      noko.css('a/@href').text[/\/node\/(\d+)/, 1]
+      noko.css('a/@href').text[%r{/node/(\d+)}, 1]
     end
 
     field :name do
@@ -43,7 +43,7 @@ urls = [
   'https://www.parliament.gov.zm/members/12-assembly',
   'https://www.parliament.gov.zm/members/12-assembly?page=1',
   'https://www.parliament.gov.zm/members/12-assembly?page=2',
-  'https://www.parliament.gov.zm/members/12-assembly?page=3',
+  'https://www.parliament.gov.zm/members/12-assembly?page=3'
 ]
 
 puts EveryPoliticianScraper::ScraperData.new(urls).csv
