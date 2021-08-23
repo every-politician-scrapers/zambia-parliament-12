@@ -15,7 +15,6 @@ id,name,party,constituency
 5722,Makozo Chikote,United Party for National Development (UPND),Luampa
 193,Nickson Chilangwa,Patriotic Front (PF),Kawambwa
 3340,Chitalu Chilufya,Patriotic Front (PF),Mansa Central
-5360,Kampamba Chilumba,Patriotic Front (PF),Kalulushi
 8462,George Chisanga,Patriotic Front (PF),Lukashya
 5462,Attractor Chisangano,United Party for National Development (UPND),Gwembe
 7968,Joseph Chishala,National Democratic Congress (NDC),Roan
@@ -28,6 +27,7 @@ id,name,party,constituency
 187,Lazarous Chungu,Patriotic Front (PF),Lupososhi
 4043,Peter Daka,Patriotic Front (PF),Msanzala
 5754,Chama Davies,Patriotic Front (PF),Nominated
+8296,Mulenga Fube,Patriotic Front (PF),Chilubi
 5701,Rosaria Fundanga,Patriotic Front (PF),Chilubi
 5382,Leonard Fungulwe,United Party for National Development (UPND),Lufwanyama
 5748,Edify Hamukale,Patriotic Front (PF),Nominated
@@ -100,11 +100,11 @@ id,name,party,constituency
 323,Chinga Miyutu,United Party for National Development (UPND),Kalabo Central
 4164,Mubika Mubika,United Party for National Development (UPND),Shang’ombo
 335,Nathaniel Mubukwanu,Patriotic Front (PF),Nominated
-4166,Elija Muchima,United Party for National Development (UPND),Ikeleng'i
+337,Elijah Muchima,United Party for National Development (UPND),Ikeleng'i
 340,Keith Mukata,United Party for National Development (UPND),Chilanga
 5696,Kalalwe Mukosa,Patriotic Front (PF),Chinsali
+5360,Kampamba Mulenga,Patriotic Front (PF),Kalulushi
 5397,Emmanuel Mulenga,Patriotic Front (PF),Ndola Central
-8296,Fube Mulenga,Patriotic Front (PF),Chilubi
 5549,Mukumbuta Mulowa,United Party for National Development (UPND),Senanga
 5602,Darius Mulunda,United Party for National Development (UPND),Siavonga
 5468,Stafford Mulusa,United Party for National Development (UPND),Solwezi Central
